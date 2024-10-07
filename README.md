@@ -120,3 +120,4 @@ fann engan
 
 # 13.4.1.10 Packet Tracer - Configure Wireless Security
 
+klárað
